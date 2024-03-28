@@ -1,31 +1,29 @@
 # Spring_Core
 
-Features
-With features like quick search, bookmarks, weather support, a wide range of integrations and widgets, an elegant and modern design, and a focus on performance, Homepage is your ideal start to the day and a handy companion throughout it.
+This is the home of the Spring Framework: the foundation for all Spring projects. Collectively the Spring Framework and the family of Spring projects are often referred to simply as "Spring".
 
-Fast - The site is statically generated at build time for instant load times.
-Secure - All API requests to backend services are proxied, keeping your API keys hidden. Constantly reviewed for security by the community.
-For Everyone - Images built for AMD64, ARM64, ARMv7, and ARMv6.
-Full i18n - Support for over 40 languages.
-Service & Web Bookmarks - Add custom links to the homepage.
-Docker Integration - Container status and stats. Automatic service discovery via labels.
-Service Integration - Over 100 service integrations, including popular starr and self-hosted apps.
-Information & Utility Widgets - Weather, time, date, search, and more.
-And much more...
-Docker Integration
-Homepage has built-in support for Docker, and can automatically discover and add services to the homepage based on labels. See the Docker page for more information.
+Spring provides everything required beyond the Java programming language for creating enterprise applications for a wide range of scenarios and architectures. Please read the Overview section of the reference documentation for a more complete introduction.
 
-Service Widgets
-Homepage also has support for over 100 3rd party services, including all popular starr apps, and most popular self-hosted apps. Some examples include: Radarr, Sonarr, Lidarr, Bazarr, Ombi, Tautulli, Plex, Jellyfin, Emby, Transmission, qBittorrent, Deluge, Jackett, NZBGet, SABnzbd, etc. As well as service integrations, Homepage also has a number of information providers, sourcing information from a variety of external 3rd party APIs. See the Service page for more information.
+Code of Conduct
+This project is governed by the Spring Code of Conduct. By participating, you are expected to uphold this code of conduct. Please report unacceptable behavior to spring-code-of-conduct@pivotal.io.
 
-Information Widgets
-Homepage has built-in support for a number of information providers, including weather, time, date, search, glances and more. System and status information presented at the top of the page. See the Information Providers page for more information.
+Access to Binaries
+For access to artifacts or a distribution zip, see the Spring Framework Artifacts wiki page.
 
-Customization
-Homepage is highly customizable, with support for custom themes, custom CSS & JS, custom layouts, formatting, localization and more. See the Settings page for more information.
+Documentation
+The Spring Framework maintains reference documentation (published and source), GitHub wiki pages, and an API reference. There are also guides and tutorials across Spring projects.
 
-Getting Started
-For configuration options, examples and more, please check out the homepage documentation.
+Micro-Benchmarks
+See the Micro-Benchmarks wiki page.
 
-With Docker
-Using docker compose:
+Build from Source
+See the Build from Source wiki page and the CONTRIBUTING.md file.
+
+Continuous Integration Builds
+Information regarding CI builds can be found in the Spring Framework Concourse pipeline documentation.
+
+Stay in Touch
+Follow @SpringCentral, @SpringFramework, and its team members on 𝕏. In-depth articles can be found at The Spring Blog, and releases are announced via our releases feed.
+
+License
+The Spring Framework is released under version 2.0 of the Apache License.
